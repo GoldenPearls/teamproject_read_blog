@@ -6,3 +6,4 @@
 | 주제에 메뉴구성(기능) 한 후 흐름도 만들어 공유하기 + 메인 화면 구성하기  | [👉🏻 velog 바로가기](https://velog.io/@prettylee620/3.-%EC%A3%BC%EC%A0%9C%EC%97%90-%EB%A9%94%EB%89%B4%EA%B5%AC%EC%84%B1%EA%B8%B0%EB%8A%A5-%ED%95%9C-%ED%9B%84-%ED%9D%90%EB%A6%84%EB%8F%84-%EB%A7%8C%EB%93%A4%EC%96%B4-%EA%B3%B5%EC%9C%A0%ED%95%98%EA%B8%B0-%EB%A9%94%EC%9D%B8-%ED%99%94%EB%A9%B4-%EA%B5%AC%EC%84%B1%ED%95%98%EA%B8%B0)
 | 핵심 기능 추가 및 삭제 우선순위 분류  | [👉🏻 velog 바로가기](https://velog.io/@prettylee620/%ED%95%B5%EC%8B%AC-%EA%B8%B0%EB%8A%A5-%EC%B6%94%EA%B0%80-%EB%B0%8F-%EC%82%AD%EC%A0%9C-%EC%9A%B0%EC%84%A0%EC%88%9C%EC%9C%84-%EB%B6%84%EB%A5%98)
 | 역할분담 및 요구사항 정의서 작성  | [👉🏻 velog 바로가기](https://velog.io/@prettylee620/%EC%97%AD%ED%95%A0%EB%B6%84%EB%8B%B4-%EB%B0%8F-%EC%9A%94%EA%B5%AC%EC%82%AC%ED%95%AD-%EC%A0%95%EC%9D%98%EC%84%9C-%EC%9E%91%EC%84%B1)
+| 1차 기획안 작성 및 멘토링 준비  | [👉🏻 velog 바로가기](https://velog.io/@prettylee620/1%EC%B0%A8-%EA%B8%B0%ED%9A%8D%EC%95%88-%EC%9E%91%EC%84%B1-%EB%B0%8F-%EB%A9%98%ED%86%A0%EB%A7%81-%EC%A4%80%EB%B9%84)
